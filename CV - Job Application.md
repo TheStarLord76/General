@@ -5,14 +5,14 @@
 
 ### Objective Statement
 
-Currently a Computer Science undergraduate student at the University of Miami. Previously developed 2D Unity games and currently working on mobile encyclopedia application using Flutter. Seeking to enter as a PhD computer science student at the Univesity of Miami to do Artificial Intelligence and Machine Learning research utilizing GPU programming in relation video game development.   
+Recent Computer Science Graduate from the University of Miami. Previously developed 2D Unity games and mobile encyclopedia application using Flutter. Currently seeking a job position relating to Software Engineering, Machine Learning, or Artificial Intelligence.   
 
 ### Education 
 
-**Majoring in Computer Science (Bachelor of Science)**
+**Majored in Computer Science (Bachelor of Science)**
 *University of Miami, Miami, FL*
-**Expected Graduation**: Fall 2020
-**Current Cum GPA**: 3.94 (out of 4 scale) 
+**Graduated**: Fall 2020
+**Current Cum GPA**: 3.95 (out of 4 scale) 
 **Relevant Coursework**: 
 
 - Computer Programming I & II (Java Programming) 
