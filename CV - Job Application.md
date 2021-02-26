@@ -41,6 +41,12 @@ Recent Computer Science Graduate from the University of Miami. Previously develo
 **Archbishop McCarthy High School, Miami, FL**
 **Graduated**: 2017
 
+### Projects
+1. Developed tkinter application using Python 
+   - Utilizes an Automated Reasoning System based on Resolution Principle to answer user queries upon an established knowledge base. 
+2. Developed Unity2D Game
+    - Complete Unity game developed as a semester project at the University of Miami.
+
 ### Programming and Scripting Languages
 
 Proficiency Scale out of 5 (master proficiency):
