@@ -43,7 +43,7 @@ Recent Computer Science Graduate from the University of Miami. Previously develo
 
 ### Projects
 1. Developed tkinter application using Python 
-   - Utilizes an Automated Reasoning System based on Resolution Principle to answer user queries upon an established knowledge base. 
+   - Utilizes an Automated Reasoning System based on Resolution Principle to an swer user queries upon an established knowledge base. 
 2. Developed Unity2D Game
     - Complete Unity game developed as a semester project at the University of Miami.
 
